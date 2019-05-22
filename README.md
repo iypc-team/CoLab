@@ -1,1 +1,1 @@
-# CoLab
+# GitHub CoLab
