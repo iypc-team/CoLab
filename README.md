@@ -1,3 +1,0 @@
-# CoLab
-
- Extraneous bullshit. 
